@@ -1,38 +1,4 @@
 {
-  "_args": [
-    [
-      "hexo-migrator-wordpressimg",
-      "/Users/colin/Projects/blog"
-    ]
-  ],
-  "_from": "hexo-migrator-wordpressimg@latest",
-  "_id": "hexo-migrator-wordpressimg@0.1.2",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/hexo-migrator-wordpressimg",
-  "_nodeVersion": "0.12.0",
-  "_npmUser": {
-    "email": "mail@luozhihua.com",
-    "name": "colin_luo"
-  },
-  "_npmVersion": "2.5.1",
-  "_phantomChildren": {},
-  "_requested": {
-    "name": "hexo-migrator-wordpressimg",
-    "raw": "hexo-migrator-wordpressimg",
-    "rawSpec": "",
-    "scope": null,
-    "spec": "latest",
-    "type": "tag"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/hexo-migrator-wordpressimg/-/hexo-migrator-wordpressimg-0.1.2.tgz",
-  "_shasum": "a1c1cc91f3b6a355d99c7a527aa97de786365b34",
-  "_shrinkwrap": null,
-  "_spec": "hexo-migrator-wordpressimg",
-  "_where": "/Users/colin/Projects/blog",
   "author": {
     "email": "mail@luozhihua.com",
     "name": "Colin Luo",
