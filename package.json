@@ -1,0 +1,83 @@
+{
+  "_args": [
+    [
+      "hexo-migrator-wordpressimg",
+      "/Users/colin/Projects/blog"
+    ]
+  ],
+  "_from": "hexo-migrator-wordpressimg@latest",
+  "_id": "hexo-migrator-wordpressimg@0.1.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/hexo-migrator-wordpressimg",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "email": "mail@luozhihua.com",
+    "name": "colin_luo"
+  },
+  "_npmVersion": "2.5.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "hexo-migrator-wordpressimg",
+    "raw": "hexo-migrator-wordpressimg",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hexo-migrator-wordpressimg/-/hexo-migrator-wordpressimg-0.1.2.tgz",
+  "_shasum": "a1c1cc91f3b6a355d99c7a527aa97de786365b34",
+  "_shrinkwrap": null,
+  "_spec": "hexo-migrator-wordpressimg",
+  "_where": "/Users/colin/Projects/blog",
+  "author": {
+    "email": "mail@luozhihua.com",
+    "name": "Colin Luo",
+    "url": "http://luozhihua.com"
+  },
+  "bugs": {
+    "url": "https://github.com/luozhihua/hexo-migrator-wordpressimg/issues"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.15.1",
+    "request": "^2.36.0",
+    "to-markdown": "0.0.1",
+    "xml2js": "0.4.2"
+  },
+  "description": "WordPress migrator plugin for Hexo",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "a1c1cc91f3b6a355d99c7a527aa97de786365b34",
+    "tarball": "https://registry.npmjs.org/hexo-migrator-wordpressimg/-/hexo-migrator-wordpressimg-0.1.2.tgz"
+  },
+  "gitHead": "b8201ef6a51bd65516d578dafce2bad8f69d59a9",
+  "homepage": "https://github.com/luozhihua/hexo-migrator-wordpressimg",
+  "keywords": [
+    "hexo",
+    "wordpress",
+    "migrator"
+  ],
+  "license": "MIT",
+  "main": "index",
+  "maintainers": [
+    {
+      "email": "mail@luozhihua.com",
+      "name": "Colin"
+    }
+  ],
+  "name": "hexo-migrator-wordpressimg",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luozhihua/hexo-migrator-wordpressimg.git"
+  },
+  "scripts": {},
+  "version": "0.1.2"
+}
